@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21f0a1bc-1a6d-4d0e-b692-10e33f4f10b7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/posts/BlogPosts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/posts/HomeworkBlogPosts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/weather/HomeworkWeatherAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/weather/WeatherApi.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PmpDCpMjWX1rydoI529Lag71AP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.HomeworkWeatherAPI.it_Gets_weather_2">
+    <configuration name="HomeworkBlogPosts.it_should_get_post_by_id" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="api-automation-boilerplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="posts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="posts" />
+      <option name="MAIN_CLASS_NAME" value="posts.HomeworkBlogPosts" />
+      <option name="METHOD_NAME" value="it_should_get_post_by_id" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeworkBlogPosts.it_should_get_post_by_id_4" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="api-automation-boilerplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="posts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="posts" />
+      <option name="MAIN_CLASS_NAME" value="posts.HomeworkBlogPosts" />
+      <option name="METHOD_NAME" value="it_should_get_post_by_id_4" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeworkWeatherAPI" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="api-automation-boilerplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="weather.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="weather" />
+      <option name="MAIN_CLASS_NAME" value="weather.HomeworkWeatherAPI" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeworkWeatherAPI.it_Gets_Weather" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="api-automation-boilerplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="weather.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="weather" />
+      <option name="MAIN_CLASS_NAME" value="weather.HomeworkWeatherAPI" />
+      <option name="METHOD_NAME" value="it_Gets_Weather" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeworkWeatherAPI.it_Gets_weather_2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="api-automation-boilerplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="weather.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="weather" />
+      <option name="MAIN_CLASS_NAME" value="weather.HomeworkWeatherAPI" />
+      <option name="METHOD_NAME" value="it_Gets_weather_2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.HomeworkWeatherAPI.it_Gets_weather_2" />
+        <item itemvalue="TestNG.HomeworkWeatherAPI.it_Gets_Weather" />
+        <item itemvalue="TestNG.HomeworkWeatherAPI" />
+        <item itemvalue="TestNG.HomeworkBlogPosts.it_should_get_post_by_id_4" />
+        <item itemvalue="TestNG.HomeworkBlogPosts.it_should_get_post_by_id" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21f0a1bc-1a6d-4d0e-b692-10e33f4f10b7" name="Changes" comment="" />
+      <created>1684071995811</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684071995811</updated>
+    </task>
+    <servers />
+  </component>
+</project>
